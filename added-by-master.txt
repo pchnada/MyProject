@@ -7,4 +7,6 @@ xxxxxxxxxxxxx
 yyyyyyyyyyyyy
 zzzzzzzzz
 
-you don't have this msg
+
+
+you must have this msg!
